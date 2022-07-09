@@ -1,0 +1,21 @@
+
+.footerContainer{
+    background-color: #f5757b;
+  /* position: absolute; */
+    height: auto;
+    left:0%; 
+    right: 0%;
+    text-align: center;
+    /* width: 100vw; */
+    padding: 10px;
+    color:white;
+    right: 0;
+    box-shadow: 0px 0px 30px #f5757b;
+    clear: both;
+    position: fixed;
+    bottom:0;
+  
+}
+h3{
+  margin: auto;
+}
